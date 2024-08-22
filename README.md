@@ -1,3 +1,6 @@
+# DEPRECATED - USE NPM PACKAGE INSTEAD
+https://www.npmjs.com/package/icepick
+
 # icepick
 
 A tiny (1kb min/gzipped), zero-dependency library for treating frozen JavaScript objects as persistent immutable collections.
